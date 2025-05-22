@@ -1,4 +1,4 @@
-#include<NewPing.h>                 //Library for sonar for ultrasonic sensor
+#include<NewPing.h>                 
 bool start = false;                 //init start off
 const int trigPin = 13;             //trig pin for ultrasonic sensor, already connected to pin 13 in buggy
 const int echoPin = 12;             //echo pin for ultrasonic sensor, already connected to pin 12 in buggy
